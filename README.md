@@ -63,6 +63,8 @@ The data consists of 48x48 pixel grayscale images of faces. The faces have been 
 ![](https://github.com/Shivaswaroopjp/Face-Emotion-Recognition/blob/main/emotions/surprised.png)
 
 
+## The model has been deployed on AWS(Amazon Web Service Servers) and can beseen [here](https://ec2-18-218-107-203.us-east-2.compute.amazonaws.com/)
+
 
 
 
